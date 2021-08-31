@@ -12,7 +12,9 @@ The WSC's z/OS Connect EE Getting Started Guide can be downloaded from [here](ht
   
 The WSC's z/OS Connect EE Advanced Topics Guide can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/security/zOS%20Connect%20EE%20V3%20Advanced%20Topics%20Guide.pdf){:target="_blank"} to view it locally.
 
-Click [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/ZOSSEC1%20-%20IBM%20zOS%20COnnect%20%20Security.pdf){:target="_blank"} to download the presentation.
+Click [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/ZOSSEC1%20-%20IBM%20zOS%20Connect%20%20Administration.pdf){:target="_blank"} to download the administration presentation.
+
+Click [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/ZOSSEC1%20-%20IBM%20zOS%20Connect%20%20Security.pdf){:target="_blank"} to download the security presentation.
 
 ## Accessing the hands-on lab
 
